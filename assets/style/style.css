@@ -84,7 +84,7 @@ a{
 .icons-link a:hover{
     padding: 17px 20px;
 }
-.contact-navbar button{
+.contact-navbar button a{
     padding: 17px 19px;
     border-radius: 6px;
     background-color: var(--main);
